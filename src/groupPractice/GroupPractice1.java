@@ -6,4 +6,7 @@ public class GroupPractice1 {
 		System.out.println("Group Practice....");
 	}
 
+	public void add(int a, int b){
+	System.out.println(a + b)
+		}
 }
